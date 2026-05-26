@@ -21,7 +21,7 @@ Python 3.x instalado — Download aqui
 
 Rodando o projeto
 bash# Clone o repositório
-git clone https://github.com/seu-usuario/agenda-de-contatos.git
+git clone https://github.com/VitorAlves-DEV/Agenda_Contatos.py/blob/main/agenda.py
 
 # Acesse a pasta do projeto
 cd agenda-de-contatos
